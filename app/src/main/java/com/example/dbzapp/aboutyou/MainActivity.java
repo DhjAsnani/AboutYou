@@ -17,7 +17,7 @@ import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
 ProgressBar progressBar;
-    TextView t ;
+    TextView t,t1;
      String em;
     EditText emailText;
     @Override
